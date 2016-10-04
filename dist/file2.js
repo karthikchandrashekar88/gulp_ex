@@ -1,0 +1,1 @@
+function func1(n){console.log("simple function with a parameter")}

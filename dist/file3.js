@@ -1,0 +1,1 @@
+function func1(n,o){console.log("function with two parameters")}
